@@ -1,0 +1,11 @@
+{
+  "Name of Corporation": "",
+  "general_purpose_public": true,
+  "general_purpose_charitable": true,
+  "Specific Purpose Description": "",
+  "director_number_fixed": true,
+  "Number of Directors": "2",
+  "Max Directors": "5",
+  "Min Directors": "2",
+  "Director Term Years": "3"
+}
